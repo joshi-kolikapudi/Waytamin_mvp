@@ -8,8 +8,9 @@ WayTamin is at the forefront of revolutionizing customer experiences and operati
 - Custom Machine Learning Techniques: Leverage proprietary algorithms for accurate wait time predictions.
 - Mobile App Integration: Seamlessly adjust to shifting client traffic using our intuitive mobile app solutions.
 
-Follow these steps to integrate WayTamin into your system:
+You may follow these steps to integrate WayTamin into your system:
 
 1. Clone the Repository:
    ```bash
    git clone https://github.com/your-username/WayTamin.git
+   
